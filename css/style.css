@@ -1,0 +1,23 @@
+.navbar {
+    background-color: #114454 !important;
+    color: white;
+}
+
+#header img {
+    width: 44px;
+    height: 57px;
+}
+
+#footer {
+    background-color: #114454;
+}
+
+#footer a {
+    color: white;
+}
+
+.icono {
+    font-size: 28px;
+    color: white;
+    padding-right: 8px;
+}
