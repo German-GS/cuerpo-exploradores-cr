@@ -8,6 +8,15 @@
     height: 57px;
 }
 
+#main .carousel-inner img {
+    max-height: 70vh;
+    object-fit: cover;
+}
+
+#notice img {
+    width: 450px;
+}
+
 #footer {
     background-color: #114454;
 }
